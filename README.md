@@ -6,7 +6,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maendeleolab&repo=maendeleolab)](https://github.com/maendeleolab/maendeleolab)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maendeleolab&repo=github-readme-stats)](https://github.com/maendeleolab/maendeleolab)
+[![Readme Card](https://github.com/maendeleolab/maendeleolab.vercel.app/api/pin/?username=maendeleolab&repo=github-readme-stats)](https://github.com/maendeleolab/maendeleolab)
 
 
 <!--
