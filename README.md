@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![maendelelolab's GitHub stats](https://github-readme-stats.vercel.app/api?username=maendeleolab)](https://github.com/maendeleolab/github-readme-stats)
+[![maendelelolab's GitHub stats](https://github.com/maendeleolab/maendeleolab.vercel.app/api?username=maendeleolab)](https://github.com/maendeleolab/github-readme-stats)
 
 ![maendelelolab's GitHub stats](https://github-readme-stats.vercel.app/api?username=maendeleolab&count_private=true&show_icons=true&theme=dark)
 
