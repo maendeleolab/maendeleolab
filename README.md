@@ -4,7 +4,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maendeleolab&repo=maendeleolab)](https://github.com/maendeleolab/maendeleolab)
 
-[![maendeleolab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maendeleolab)](https://github.com/maendeleolab)
+[![maendeleolab's wakatime stats](https://github-readme-stats.vercel.app/api/maendeleolab?username=maendeleolab)](https://github.com/maendeleolab)
 
 <!--
 **maendeleolab/maendeleolab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
