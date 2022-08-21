@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/images/banner.png" width=300>
+<img src="/images/banner.png" width=200>
 
 - 💬 Who am I ...
 
@@ -11,10 +11,6 @@
 
 - 🔭 I’m currently working on ...
 	- Developing modular scripts to help deploy network resources in AWS.
-<p align="left">
-  <img src="/images/central-tgw-architecture.PNG" width="200" />
-  <img src="/images/basic-inter-region-peering.PNG" width="300" />
-</p>
 	- Creating maendeleolab contents on [my channel](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
 
 - 🌱 I’m currently learning ...
@@ -39,4 +35,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maendeleolab&repo=maendeleolab)](https://github.com/maendeleolab/maendeleolab)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maendeleolab&theme=highcontrast)](https://git.io/streak-stats)
+
 
