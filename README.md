@@ -4,7 +4,7 @@
 
 - 💬 Who am I ...
 
-	I am Patrick Bisselele.
+	I am Patrick Bisselele and I am the creator of Maendeleolab.
 	Maendeleo means development and progress in Swahili.
 	I have a strong passion for scripting networking use cases using Python.
 
@@ -23,10 +23,9 @@
 
 	[LinkedIn](www.linkedin.com/in/patrick-bisselele) ![Twitter](https://img.shields.io/twitter/follow/maendeleolab?style=social)
 
-- ⚡ Fun fact: ...
+- ⚡ Vision: ...
 
-	Born and raised in the Democratic Republic of the Congo.
-	I speak three languages (English, French and Lingala).
+	Deliver a variety of network use cases as code to allow AWS Networking communities to develop and build network infrastructures quickly.  
 
 
 ![maendelelolab's GitHub stats](https://github-readme-stats.vercel.app/api?username=maendeleolab&count_private=true&show_icons=true&theme=highcontrast)
