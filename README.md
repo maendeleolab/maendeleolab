@@ -6,11 +6,10 @@
 
 	I am Patrick Bisselele.
 	Maendeleolab stands for developement and progress in Swahili.
-	I have a strong background in Networking and scripting using Python.
-	I have a strong passion for scripting networking use cases.
+	I have a strong passion for scripting networking use cases using Python.
 
 - 🔭 I’m currently working on ...
-	- Developing modular scripts to help deploy network resources in AWS.
+	- Developing decoupled scripts to help deploy network resources in AWS.
 	- Creating maendeleolab contents on [my channel](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
 
 - 🌱 I’m currently learning ...
