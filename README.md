@@ -5,7 +5,7 @@
 - 💬 Who am I ...
 
 	I am Patrick Bisselele.
-	Maendeleolab stands for developement and progress in Swahili.
+	Maendeleo means development and progress in Swahili.
 	I have a strong passion for scripting networking use cases using Python.
 
 - 🔭 I’m currently working on ...
