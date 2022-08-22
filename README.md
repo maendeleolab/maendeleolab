@@ -21,7 +21,8 @@
 
 - 📫 How to reach me: ...
 
-	[LinkedIn](www.linkedin.com/in/patrick-bisselele) ![Twitter](https://img.shields.io/twitter/follow/maendeleolab?style=social)
+	[LinkedIn](www.linkedin.com/in/patrick-bisselele) 
+	![Twitter](https://img.shields.io/twitter/follow/maendeleolab?style=social)
 
 - ⚡ Mission: ...
 
