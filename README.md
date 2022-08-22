@@ -23,9 +23,9 @@
 
 	[LinkedIn](www.linkedin.com/in/patrick-bisselele) ![Twitter](https://img.shields.io/twitter/follow/maendeleolab?style=social)
 
-- ⚡ Vision: ...
+- ⚡ Mission: ...
 
-	Deliver a variety of network use cases as code to allow AWS Networking communities to develop and build network infrastructures quickly.  
+	Deliver a variety of network use cases as code to equip cloud engineers to develop and build network infrastructures quickly.  
 
 
 
