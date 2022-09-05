@@ -6,7 +6,7 @@
 
 	I am Patrick Bisselele and I am the creator of Maendeleolab.
 	Maendeleo means development and progress in Swahili.
-	I have a strong passion for scripting networking use cases using Python.
+	I have a strong passion for scripting. My focus niche is in AWS networking.
 
 - 🔭 I’m currently working on ...
 	- Developing decoupled scripts to help deploy network resources in AWS.
@@ -26,7 +26,7 @@
 
 - ⚡ Mission: ...
 
-	Deliver a variety of network use cases as code to equip cloud engineers to develop and build network infrastructures quickly.  
+	Contribute a variety of network use cases as code to equip cloud engineers to develop and build network infrastructures quickly.  
 
 
 
