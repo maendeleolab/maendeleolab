@@ -26,7 +26,7 @@
 
 - ⚡ Mission: ...
 
-	Contribute a variety of network use cases as code to equip cloud engineers to develop and build network infrastructures quickly.  
+	I work on contributing a variety of network use cases as code to equip cloud engineers to build and manage network infrastructures efficiently.  
 
 
 
