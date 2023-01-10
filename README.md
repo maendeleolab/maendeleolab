@@ -6,14 +6,16 @@
 
 	I am Patrick Bisselele and I am the creator of Maendeleolab.
 	Maendeleo means development and progress in Swahili.
-	I have a strong passion for scripting. My focus niche is in AWS networking.
+	I have a strong passion for scripting. My focus niche is in AWS networking. 
 
 - 🔭 I’m currently working on ...
-	- Developing decoupled scripts to help deploy network resources in AWS.
+	- Developing decoupled Python scripts to help deploy network resources in AWS with AWSCLI.
 	- Creating maendeleolab contents on [my channel](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
+	- Developing an network automation toolbox with AWS Cloud Development Kit.
 
 - 🌱 I’m currently learning ...
-	- AWS CDK using python
+	- https://www.coursera.org/specializations/python
+	- https://www.coursera.org/specializations/django
 
 - 💬 Ask me about ...
 	- Any assistance with AWS Networking
