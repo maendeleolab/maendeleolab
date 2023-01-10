@@ -19,7 +19,8 @@
 
 - 💬 Ask me about ...
 	- Any assistance with AWS Networking
-	- Or any ideas you may have
+	- Hybrid Networking
+	- Or any automation project you may have
 
 - 📫 How to reach me: ...
 
