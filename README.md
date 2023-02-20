@@ -2,34 +2,33 @@
 
 <img src="/images/banner.png" width=200>
 
-- 💬 Who am I ...
-
-	I am Patrick Bisselele and I am the creator of Maendeleolab.
+- 💬 Who are we ...
 	Maendeleo means development and progress in Swahili.
-	I have a strong passion for scripting. My focus niche is in AWS networking. 
+	We are an IT Consulting team focused on network infrastructures. 
 
-- 🔭 I’m currently working on ...
+- 🔭 We are currently working on ...
 	- Developing decoupled Python scripts to help deploy network resources in AWS with AWSCLI.
 	- Creating maendeleolab contents on [my channel](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
 	- Developing an network automation toolbox with AWS Cloud Development Kit.
 
-- 🌱 I’m currently learning ...
+- 🌱 We are currently learning ...
 	- https://www.coursera.org/specializations/python
 	- https://www.coursera.org/specializations/django
 
-- 💬 Ask me about ...
+- 💬 Ask us about ...
 	- Any assistance with AWS Networking
 	- Hybrid Networking
 	- Or any automation project you may have
 
-- 📫 How to reach me: ...
+- 📫 How to reach us: ...
 
-	[LinkedIn](www.linkedin.com/in/patrick-bisselele) 
+	[Website](www.maendeleolab.com) 
 	![Twitter](https://img.shields.io/twitter/follow/maendeleolab?style=social)
 
 - ⚡ Mission: ...
-
-	I work on contributing a variety of network use cases as code to equip cloud engineers to build and manage network infrastructures efficiently.  
+	Our moonshot is to produce modular infrastructures as code.
+	It guarantees scalability and reliability of the network services. We believe the network should notbe treated as a black box that is complicated to access.
+	This is why we use automation as part of our network as a service strategy. Simple is always better than complex, so is working with Maendeleolab.
 
 
 
