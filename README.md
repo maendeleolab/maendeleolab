@@ -27,7 +27,7 @@
 
 - ⚡ Mission: ...
 	Our moonshot is to produce modular infrastructures as code.
-	It guarantees scalability and reliability of the network services. We believe the network should notbe treated as a black box that is complicated to access.
+	It guarantees scalability and reliability of the network services. We believe the network should not be treated as a black box that is complicated to access.
 	This is why we use automation as part of our network as a service strategy. Simple is always better than complex, so is working with Maendeleolab.
 
 
