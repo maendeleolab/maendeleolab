@@ -22,7 +22,7 @@
 
 - 📫 How to reach us: ...
 
-	[Website](www.maendeleolab.com) 
+	[Website](www.maendeleolab.com)<br>
 	![Twitter](https://img.shields.io/twitter/follow/maendeleolab?style=social)
 
 - ⚡ Mission: ...
