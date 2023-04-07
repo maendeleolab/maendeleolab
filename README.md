@@ -3,7 +3,7 @@
 <img src="/images/banner.png" width=200>
 
 - 💬 Who are we ...<br>
-	Maendeleo means development and progress in Swahili.<br>
+	"Maendeleo" means development and progress in Swahili.<br>
 	We are an IT Consulting team focused on network infrastructures. 
 
 - 🔭 We are currently working on ...
