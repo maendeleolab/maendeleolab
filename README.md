@@ -8,12 +8,12 @@
 
 - 🔭 We are currently working on ...
 	- Developing decoupled Python scripts to help deploy network resources in AWS with AWSCLI.
-	- Creating maendeleolab contents on [my channel](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
-	- Developing an network automation toolbox with AWS Cloud Development Kit.
+	- Creating maendeleolab contents on [Youtube](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
+	- Developing modular stacks with AWS Cloud Development Kit.
 
 - 🌱 We are currently learning ...
 	- https://www.coursera.org/specializations/python
-	- https://www.coursera.org/specializations/django
+	- flask in codeacademy.com
 
 - 💬 Ask us about ...
 	- Any assistance with AWS Networking
