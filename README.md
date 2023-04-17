@@ -4,7 +4,8 @@
 
 - 💬 Who are we ...<br>
 	"Maendeleo" means development and progress in Swahili.<br>
-	We are an IT Consulting team focused on network infrastructures. 
+	We are an IT Consulting business looking to build a long-term relationship with businesses.<br>
+	Our focus areas are LAN, WAN, VPN and AWS Cloud Networking.
 
 - 🔭 We are currently working on ...
 	- Developing decoupled Python scripts to help deploy network resources in AWS with AWSCLI.
@@ -18,7 +19,7 @@
 - 💬 Ask us about ...
 	- Any assistance with AWS Networking
 	- Hybrid Networking
-	- Or any automation project you may have
+	- Or any project you may have
 
 - 📫 How to reach us: ...
 
