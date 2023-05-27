@@ -4,8 +4,11 @@
 
 - 💬 Who are we ...<br>
 	"Maendeleo" means development and progress in Swahili.<br>
-	We are an IT Consulting business looking to build a long-term relationship with businesses.<br>
-	Our focus areas are LAN, WAN, VPN and AWS Cloud Networking.
+	MaendeleoLab is an IT consulting business that specializes in AWS cloud networking.<br> 
+	Our focus is on helping clients leverage the power and capabilities of Amazon Web Services (AWS) for your networking needs.<br> 
+	With expertise in AWS cloud solutions, MaendeleoLab provides services such as designing, implementing,<br> 
+	and managing cloud-based networking infrastructures, optimizing network performance, and ensuring security and scalability within the AWS environment.<br> 
+	For more specific details about our services, please www.maendeleolab.com
 
 - 🔭 We are currently working on ...
 	- Developing decoupled Python scripts to help deploy network resources in AWS with AWSCLI.
