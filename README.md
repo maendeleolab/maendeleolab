@@ -9,9 +9,8 @@
         The main focus is networking and I am always open to learning new things.
 
 - 🔭 I am currently working on ...
-	- Developing decoupled Python scripts to help deploy network resources in AWS with AWSCLI.
+	- Developing networking labs using Python [Rubiconcloudnetwork](https://github.com/maendeleolab/rubiconcloudnetwork/wiki)
 	- Creating maendeleolab contents on [Youtube](https://www.youtube.com/channel/UCIv32b8ri2-AmoUZI5wolfA)
-	- Developing modular stacks with AWS Cloud Development Kit.
 
 - 🌱 I am currently learning ...
 	- https://www.coursera.org/specializations/python
