@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="/images/banner.png" width=200>
+<img src="/images/maendeleolab_profile_logo.png" width=200>
 
 - 💬 Who am I ?<br>
 	"Maendeleo" means development and progress in Swahili.<br>
